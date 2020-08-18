@@ -1,19 +1,13 @@
 +++
-brief = "Permitted 3D model file types"
+brief = "3D models must be supplied in both 'step' and 'wrl' formats"
 +++
 
-The KiCad 3D model library supports two file formats:
+Any 3D model contribution to the KiCad library must be made in both step and wrl format.
 
 **WRL**
 
 * WRL files contain material properties and are used for realistic rendering. However they cannot be exported to MCAD packages.
-* KiCad v4.x and lower can only render WRL files
 
 **STEP**
 
 * STEP files are used for integration with MCAD software packages. These files do not contain material properties and cannot be used for realistic rendering.
-* KiCad v5.x and above can render STEP files directly in the 3D viewer
-
-Only models provided in these file formats will be accepted.
-
-It is suggested that a .WRL and .STEP version of the model are provided simultaneously. This provides options for both high quality rendering and MCAD integration.

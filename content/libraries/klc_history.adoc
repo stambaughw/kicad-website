@@ -5,6 +5,14 @@ summary = "Revision history of the KiCad Library Conventions"
 +++
 
 ---
+== 3.0.28 - 2020-09-18
+* Rework ruleset for 3d model contributions
+  * Clarify restrictions for third party contributions (M1.1)
+  * Remove rule M1.2 as it implied models provided by manufacturers are preferred
+  * Clarify what counts as source files and add note about script contributions (M1.3)
+  * Clarify that all contributions must be made with both wrl and step models (M2.1)
+  * Clarify that Freecad is the preferred design tool (M2.3)
+
 == 3.0.27 - 2020-09-12
 * Change general guidelines (G) to mention templates and 3D models
 

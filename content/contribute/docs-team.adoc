@@ -20,9 +20,9 @@ List].  You can also join the link:/community/irc[IRC channel] if you
 have questions. Usually, there are multiple KiCad developers,
 documenters and users in the channel.
 
-Most of the action takes place on two repositories on GitHub.
+Most of the action takes place on two repositories on GitLab.
 
- - link:https://github.com/KiCad/kicad-doc[Official Documentation]
+ - link:https://gitlab.com/KiCad/services/kicad-doc[Official Documentation]
  - link:https://gitlab.com/kicad/services/kicad-website[Website]
 
 What are the tasks we are working on?
@@ -37,7 +37,7 @@ We welcome everyone who can contribute in a positive way to the
 official documentation. This could be any of the above mentioned
 points.
 
-Simply fork the repositories linked above on GitHub and submit a pull
+Simply fork the repositories linked above on GitLab and submit a merge
 request with changes for review.
 
 The reference language of the documentation and the official language of
@@ -48,4 +48,4 @@ to the documentation effort translating the program and/or the
 documentation.
 
 We suggest to start translating the program. There is also a very nice
-link:https://github.com/KiCad/kicad-doc/blob/master/src/gui_translation_howto/gui_translation_howto.adoc[KiCad GUI Translation HOWTO].
+link:https://gitlab.com/KiCad/services/kicad-doc/-/blob/master/src/gui_translation_howto/gui_translation_howto.adoc[KiCad GUI Translation HOWTO].

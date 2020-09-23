@@ -1,6 +1,6 @@
 +++
-title = "Development Highlight: 3D Viewer Improvements (thus far)"
-date = "2020-09-30"
+title = "Development Highlight: V6 3D Viewer Improvements"
+date = "2020-09-22"
 draft = true
 "blog/categories" = [
     "Development Highlight"

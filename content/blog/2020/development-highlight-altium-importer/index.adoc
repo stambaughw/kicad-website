@@ -18,6 +18,8 @@ The board import option can be found under the *_File > Import > Non-Kicad Board
 
 image::import-non-kicad.png[align=center, width=80%, alt="Import non kicad option in menu shown", link=import-non-kicad.png]
 
+After which in the import file dialog you must change the file filter
+
 image::import-non-kicad-filter.png[align=center, width=80%, alt="Altium PcbDoc selector shown in file open explorer", link=import-non-kicad-filter.png]
 
 After selecting your PcbDoc file and a short delay. Pcbnew will display its best attempt at a import and provide warnings if it had any difficulties importing the file.

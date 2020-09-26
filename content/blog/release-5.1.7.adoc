@@ -16,14 +16,11 @@ aliases = [
 
 The KiCad project is proud to announce the latest series 5 stable
 release.  The 5.1.7 stable version contains critical bug fixes and
-other minor improvements since the 5.1.5 release.  It also includes
-improved footprint, symbol, and 3D model libraries, translations,
-and documentation.
+other minor improvements since the previous release.  It also includes
+improved footprint, symbol, and 3D model libraries, translations, and
+documentation.
 
 <!--more-->
-
-This is also the first stable point release made since switching to
-gitlab for https://gitlab.com/kicad[main kicad source code hosting].
 
 A list of all of the fixed bugs since the 5.1.6 release can be found
 on the https://gitlab.com/groups/kicad/code/-/milestones/2[KiCad 5.1.7

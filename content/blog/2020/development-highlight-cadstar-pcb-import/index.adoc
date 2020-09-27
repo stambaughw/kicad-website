@@ -11,7 +11,7 @@ draft = false
 :iconsdir: /img/icons/
 
 https://gitlab.com/Qbort[Roberto Fernandez Bautista] had a growing desire at his workplace to migrate away from CADSTAR. 
-After trying and finding migration paths to other EDA tools inadaquete and poorly supported, he has leveraged the open source nature of KiCad to create just what he needs and contribute to the greater community :D
+After trying and finding migration paths to other EDA tools inadequate and poorly supported, he has leveraged the open source nature of KiCad to create just what he needs and contribute to the greater community :D
 
 Thanks to his hard work in https://gitlab.com/kicad/code/kicad/-/merge_requests/279[MR#279],KiCad is now able to import CADSTAR PCB files! With the schematic importer coming soon.
 

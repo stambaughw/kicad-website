@@ -1,7 +1,11 @@
 +++
-brief = "Models should be created by contributor"
+brief = "The contributor must own the rights to share the 3D model"
 +++
 
-Users should only submit models they have created themselves, either manually designed or via parametric scripting tools.
+The goal of the KiCad 3d model library is to provide a free open library of 3d models. This requires certain restrictions regarding contributions with respect to their legal status.
 
-Contributing model data designed by a third party complicates licensing issues and should be avoided.
+* Users must only submit models for which they own the rights allowing relicensing under the KiCad library licence. 
+
+* In most cases this means they have created the model themselves, either manually designed in a parametric modeling software or via scripting tools.
+
+* Contributing model data designed by a third party complicates licensing issues and is to be avoided. This includes files downloaded from a manufacturers website.

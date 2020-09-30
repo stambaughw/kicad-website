@@ -10,9 +10,11 @@ The 3D model must be aligned such that it does not require an additional alignme
 
 **Scaling**
 
-. STEP files include absolute dimensional information, and _should never have a secondary scaling factor applied_. The model `scaling` parameter in KiCad must read (`1`, `1`, `1`)
-. WRL files do not specify absolute dimensions. KiCad normalizes model parameters to units of _inches_ and the internal units (dimensionless) of the WRL model must be scaled accordingly.
+. STEP files include absolute dimensional information, and _must never have a secondary scaling factor applied_. The model `scaling` parameter in KiCad must read (`1`, `1`, `1`)
+. WRL files do not specify absolute dimensions. The WRL fileformat has no way do specify what its units mean. KiCad considers one WRL unit to be 0.1 inches for historical reasons, so models must be scaled accordingly.
+.. Assuming the model is designed in `mm` then the required scaling factor for WRL export is `1/2.54` (~0.393700787).
+.. The Freecad extension _kicad-stepup_ exports WRL files already correctly scaled.
 
 **Rotation**
 
-The model should be rotated such that no additional rotation is required within KiCad to align the 3D model with the footprint.
+The model must be rotated such that no additional rotation is required within KiCad to align the 3D model with the footprint.

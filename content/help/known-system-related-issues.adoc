@@ -46,47 +46,7 @@ these displays. On the modern canvas, their size can be increased
 in the preferences window (see https://gitlab.com/kicad/code/kicad/issues/444[GitLab Bug #444]).
 
 
-=== Legacy Canvas and wxGTK
-
-The legacy canvas has problems with wxWidgets 3.0 built with GTK3,
-this combination is usually called wxGTK on various package
-distributions. Don't be confused when you see wxGTK 3.0.0 in your
-package manager, this is usually referring to the wxWidgets version,
-and not whether or not it is built against GTK3.
-
-It has been seen that Fedora 20, 21 and 22, builds against GTK3.
-The problem manifests in eeschema  with slow zooming, and the graphics
-are not quite exact (try looking at the grid dots). And in pcbnew, the
-canvas does not really draw properly at all.
-
-On newer fedora builds they ship a wxwidgets compatability package, it
-is called wxGTK in contrast to wxGTK3 which uses GTK3. The same
-applies for archlinux, there you need the package wxgtk2. The packages
-can coexist.
-
-
-=== Bad Graphics Cards
-
-There are a few older cards that seem to not behave properly with the
-OpenGL canvas used in the new GAL canvas.
-The list below includes the faulty cards identified thus far:
-
-- Intel Graphics Media Accelerator (GMA) 4500M / Windows 7 64bit / crash
-on startup (https://bugs.launchpad.net/kicad/+bug/1473786)
-- ATI Hawaii XT [Radeon R9 290X] + 4K display + fglrx driver / Ubuntu
-14.04 LTS / flashes when the rendering area is too big
-(https://bugs.launchpad.net/kicad/+bug/1492117)
-- ATI RV370 [Radeon X300 SE] + radeon driver / Xubuntu 14.04.1 / does
-not display line rounded line ends
-(https://bugs.launchpad.net/kicad/+bug/1498970)
-
-
-=== Boost minimum version
-There have previously been problems with bugs in the boost libraries.
-A minimum version of boost 1.56 is currently required as it has fixes the majority of
-bugs previously encountered.
-
-== Linux
+== Linux-Specific Issues
 
 === Radeon Graphics
 
@@ -95,28 +55,6 @@ slow rendering in gerbview and eeschema.
 https://bugs.launchpad.net/kicad/+bug/1003859[Some]
 https://bugs.launchpad.net/kicad/+bug/1186813[bugs] have been opened related to Radeon cards.
 The solution seems to be require changing an Xorg setting which is either `Option "EXAPixmaps" "off"` or `Option "ShadowPrimary"` (see the bug reports for details).
-
-=== Intel Graphics
-Some users with Intel HD Graphics are having rendering problems with
-the legacy canvas (and eeschema). It has been reported on at least a
-laptop with a Intel Pentium P6000 processor and integrated graphics.
-
-A solution is to configure Xorg. Create a Xorg configuration file
-`/usr/share/X11/xorg.conf.d/20-intel.conf`, with the follow
-information:
-
-  Section "Device"
-    Identifier  "Intel Graphics"
-    Driver      "intel"
-  EndSection
-
-
-=== wxGTK 3.0.1
-
-Version 3.0.1 of wxWidgets for Linux (with GTK) can crash when running
-DRC. This is an issue not seen in wxGTK 3.0.2, so it seems to be fixed
-upstream. More details can be found in
-link:https://bugs.launchpad.net/kicad/+bug/1442909[Bug# 1442909].
 
 === Wayland
 It is known that KiCad does not work well under Wayland. There are a number
@@ -134,15 +72,3 @@ by the ibus. To solve it, install the packages ibus-gtk and ibus-gtk3, and resta
 Alternatively, you can quit the ibus calling in a terminal 'ibus exit' before starting KiCad.  
 More details can be found in link:https://gitlab.com/kicad/code/kicad/-/issues/4547[GitLab Bug# 4547].
 
-== Windows
-=== wxWidgets 3.0.2
-
-Mirror printing can be broken because of a bug in wxWidgets version 3.0.2,
-see link:https://bugs.launchpad.net/kicad/+bug/1463406[Bug# 1463406].
-
-=== Boost 1.59
-On 64-bit Windows, KiCad's usage of the boost context library is currently broken
-due to changes in the library. This causes pcbnew to crash on start.
-The only workaround is to use boost 1.56 or 1.57 which are known to work.
-
-== macOS

@@ -35,5 +35,8 @@ Packages for Windows, MacOS, and Linux are available or will be
 in the very near future.  See the
 link:/download[KiCad download page] for guidance.
 
+NOTE: If you need to run KiCad on an older macOS than 10.14, this was
+supported up until and not including 5.1.7.
+
 Thank you to all developers, packagers, librarians, document writers,
 translators, and everyone else who helped make this release possible.

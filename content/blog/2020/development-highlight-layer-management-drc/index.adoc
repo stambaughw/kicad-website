@@ -11,7 +11,7 @@ Some great workflow improving changes were made to PCBNew in this Development Hi
 
 == Layer Management
 
-link:https://gitlab.com/craftyjon[Jon Evan] introduced a brand new Appearance control in link:https://gitlab.com/kicad/code/kicad/-/commit/bd14f8a82a3b006b4f0f9948a70637b08dfa7980[commit bd14f8a82].
+link:https://gitlab.com/craftyjon[Jon Evans] introduced a brand new Appearance control in link:https://gitlab.com/kicad/code/kicad/-/commit/bd14f8a82a3b006b4f0f9948a70637b08dfa7980[commit bd14f8a82].
 
 
 The entire *Appearance* control received a visual and functional overhaul

@@ -2,10 +2,6 @@
 title = "KiCad 5.1.7 Release"
 date = "2020-09-30"
 draft = false
-aliases = [
-    "/post/release-5.1.7/"
-]
-
 "blog/categories" = [
     "Release Notes"
 ]
@@ -35,8 +31,7 @@ Packages for Windows, MacOS, and Linux are available or will be
 in the very near future.  See the
 link:/download[KiCad download page] for guidance.
 
-NOTE: If you need to run KiCad on an older macOS than 10.14, this was
-supported up until and not including 5.1.7.
+NOTE: KiCad no longer supports macOS older than Mojave 10.14 as of the 5.1.7 release.
 
 Thank you to all developers, packagers, librarians, document writers,
 translators, and everyone else who helped make this release possible.

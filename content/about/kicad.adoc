@@ -140,3 +140,14 @@ for the creators, builders, and innovators of tomorrow.  Because our computers a
 by open source software, customers instantly have access to a plethora of free software and
 tools.  We're proud to support KiCad's open source project, via our financial support through
 the CERN and Society Foundation.
+
+
+{{< aboutlink "/img/about/oshpark-logo.png" "https://oshpark.com/" >}}
+
+== OSHPark
+
+https://oshpark.com/[OSHPark] produces high quality bare printed circuit boards, focused on
+the needs of prototyping, hobby design, and light production.  All boards are manufactured
+in the United States including 2 and 4 layer rigid PCBs with our classic purple soldermask
+as well as 2 layer Flex PCBs and 2 layer rigid with black substrate and clear mask which we
+call "After Dark".  We directly accept KiCad board files when ordering.

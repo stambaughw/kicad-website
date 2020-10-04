@@ -151,3 +151,13 @@ the needs of prototyping, hobby design, and light production.  All boards are ma
 in the United States including 2 and 4 layer rigid PCBs with our classic purple soldermask
 as well as 2 layer Flex PCBs and 2 layer rigid with black substrate and clear mask which we
 call "After Dark".  We directly accept KiCad board files when ordering.
+
+
+{{< aboutlink "/img/about/ksc-logo.png" "https://www.kipro-pcb.com/" >}}
+
+== KiCad Services Corporation
+
+https://www.kipro-pcb.com/[The KiCad Services Corporation] is a full-service commercial
+support corporation, formed with the mission of helping our professional users succeed and
+thrive with KiCad.  We provide private issue reporting, rapid fixes and online remote desktop
+support.  Additionally, we offer contracted feature development options.

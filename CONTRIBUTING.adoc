@@ -66,5 +66,5 @@ Proprietary projects or products have a choice of one of these criteria:
 - Directly mention that KiCad was used to design the product
 - The project owner has contributed code to KiCad (i.e. developers submitted
 patches on behalf of a company), the developers with contribution history
- must submit the pull request to add to "made with kicad" entry.
+ must submit the merge request to add to "made with kicad" entry.
 - The project owner has donated to KiCad via CERN.

@@ -34,7 +34,7 @@ Refer to the link:/libraries/contribute/[contribution guidelines] for introducto
 
 The KiCad library team has developed a set of link:https://gitlab.com/kicad/libraries/kicad-library-utils[Python scripts] which can be used to help test if library components conform to the KLC requirements.
 
-When a pull request is made to the libraries, the contributed files are automatically checked using these scripts. It can be helpful to run these scripts on your local machine before submitting a PR, as it will help speed up the process of merging your contribution(s) into the library.
+When a merge request is made to the libraries, the contributed files are automatically checked using these scripts. It can be helpful to run these scripts on your local machine before submitting a PR, as it will help speed up the process of merging your contribution(s) into the library.
 
 To run the footprint checker script, for instance, `cd` into the "kicad-library-utils/pcb" directory, then run the Python script `./check_kicad_mod.py path_to_fp1.kicad_mod path_to_fp2.kicad_mod -vv`. This will carefully check your footprint according to the KLC requirements laid out below, notifying you of any discrepancies, errors, or violations. See more usage examples in the readme at the link above.
 

@@ -27,7 +27,7 @@ before you start.
 
 === Making a Merge Request
 
-The KiCad libraries are hosted on https://gitlab.com/kicad/libraries[GitLab] - users can submit their contributions using the *Merge Request* mechanism. Instructions for submitting a pull request are provided below.
+The KiCad libraries are hosted on https://gitlab.com/kicad/libraries[GitLab] - users can submit their contributions using the *Merge Request* mechanism. Instructions for submitting a merge request are provided below.
 
 . If you do not have one, create an account on https://gitlab.com/[GitLab]
 . link:https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html[**Fork**] the repository you wish to contribute to
@@ -74,10 +74,10 @@ link:https://github.com/easyw/kicad-3d-models-in-freecad[kicad-3d-models-in-free
 
 == Become a librarian
 
-If the 'pull request' world is too small for you, feel invited to join the librarians
-team. The easiest option is to simply start reviewing a few pull requests. Maybe tag the library leader to make them aware of your intention. Or open an issue on one of the library repos informing the team about your intentions. Alternatively send an e-mail to one of the librarians.
+If the 'merge request' world is too small for you, feel invited to join the librarians
+team. The easiest option is to simply start reviewing a few merge requests. Maybe tag the library leader to make them aware of your intention. Or open an issue on one of the library repos informing the team about your intentions. Alternatively send an e-mail to one of the librarians.
 
-Currently KiCad librarians team counts with just a few people against a lot of pull requests and work to do, having your help would be very appreciated.
+Currently KiCad librarians team counts with just a few people against a lot of merge requests and work to do, having your help would be very appreciated.
 
 == Contacting librarians
 

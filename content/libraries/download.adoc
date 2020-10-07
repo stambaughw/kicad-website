@@ -20,7 +20,7 @@ The official KiCad libraries are available for download at link:https://kicad.gi
 * PCB footprints: link:https://kicad.github.io/footprints[https://kicad.github.io/footprints]
 * 3D models: link:https://kicad.github.io/packages3d[https://kicad.github.io/packages3d]
 
-Library data is updated weekly, and tracks the link:https://github.com/KiCad[KiCad GitHub repositories].
+Library data is updated weekly, and tracks the link:https://gitlab.com/kicad/libraries[KiCad GitLab repositories].
 
 == Library Downloads for KiCad 4.x
 Snapshots of the libraries aligned with the minor KiCad 4.x releases link:https://kicad-downloads.s3.cern.ch/index.html?prefix=libraries/[can be found here].
@@ -28,14 +28,23 @@ Snapshots of the libraries aligned with the minor KiCad 4.x releases link:https:
 KiCad 4.x releases come with local symbol and 3d model libraries included. The footprint libraries are special cases in most installation. They are setup to use on demand download from github (via the github plugin). This might not be right for every user. For these users it is advisable to download a library snapshot and add these libs to kicad via the footprint library manager found in the preferences menu of pcb_new and the footprint editor. For the best results it is recommended to ensure KiCad does use all types of libraries from the same snapshot.
 
 
-== GitHub Libraries
+== GitLab Libraries
 
-KiCad libraries are community contributed and hosted on GitHub repositories at link:https://github.com/kicad[github.com/kicad]. If you wish to contribute to the libraries, refer to the link:/libraries/contribute/[contribution guide].
-It is also possible to keep your system libraries up to date with the latest additions by link:https://help.github.com/articles/cloning-a-repository/[cloning] the library repositories using Git. Tracking the library repositories using Git means that only the __changes__ to the libraries need to be downloaded, rather than retrieving the entire library set each time.
+KiCad libraries are community contributed and hosted on GitLab repositories at link:https://gitlab.com/kicad/libraries[gitlab.com/kicad/libraries]. If you wish to contribute to the libraries, refer to the link:/libraries/contribute/[contribution guide].
+It is also possible to keep your system libraries up to date with the latest additions by link:https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository[cloning] the library repositories using Git. Tracking the library repositories using Git means that only the __changes__ to the libraries need to be downloaded, rather than retrieving the entire library set each time.
+
+=== Library Repositories for KiCad 6.x
+
+For KiCad version 6.x, the libraries are organised into four separate repositories (on GitLab): 
+
+* `link:https://gitlab.com/kicad/libraries/kicad-symbols[kicad-symbols]` - Schematic symbol libraries
+* `link:https://gitlab.com/kicad/libraries/kicad-footprints[kicad-footprints]` - PCB footprint libraries
+* `link:https://gitlab.com/kicad/libraries/kicad-packages3d[kicad-packages3d]` - 3D model data (3D sources in `link:https://gitlab.com/kicad/libraries/kicad-packages3d-source[kicad-packages3d-source]`)
+* `link:https://gitlab.com/kicad/libraries/kicad-templates[kicad-templates]` - Project templates
 
 === Library Repositories for KiCad 5.x
 
-For KiCad version 5.x, the libraries are organised into four separate repositories (on GitHub): 
+The set of libraries corresponding to versions 5.x of KiCad software are no longer maintained. They are still available on GitHub although they have been archived to make them ready-only:
 
 * `link:https://github.com/KiCad/kicad-symbols[kicad-symbols]` - Schematic symbol libraries
 * `link:https://github.com/KiCad/kicad-footprints[kicad-footprints]` - PCB footprint libraries

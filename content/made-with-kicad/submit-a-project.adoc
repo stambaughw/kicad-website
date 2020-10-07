@@ -34,7 +34,7 @@ patches on behalf of a company), the developers with contribution history
 
 == Submission Process
 
-. Fork the https://gitlab.com/kicad/services/kicad-website repository on GitHub
+. Fork the https://gitlab.com/kicad/services/kicad-website repository on GitLab
 . Add a new folder in your fork under the `/content/made-with-kicad/` folder such as `/content/made-with-kicad/my-project-a/`
 . Create a index.adoc in the newly created folder with the following template as a base
 +

@@ -14,33 +14,33 @@ toc::[]
 
 == Introduction
 
-The KiCad libraries are organized in repositories at the https://github.com/KiCad/[KiCad] organization on GitHub. User contributions to these libraries are greatly appreciated, whether it is improving existing components or creating new ones.
+The KiCad libraries are organized in repositories at the https://gitlab.com/kicad/libraries[KiCad] organization on GitLab. User contributions to these libraries are greatly appreciated, whether it is improving existing components or creating new ones.
 
 == How to contribute
 
-To contribute to the KiCad libraries, submit a pull request on GitHub for
+To contribute to the KiCad libraries, submit a merge request on GitLab for
 the relevant repository.
 
-If you are new to GitHub, please check out this guide
-https://guides.github.com/activities/contributing-to-open-source[Contributing to Open Source on GitHub]
+If you are new to GitLab, please check out this guide
+https://docs.gitlab.com/ee/intro/#collaborate[Getting Started with GitLab]
 before you start.
 
-=== Making a Pull Request
+=== Making a Merge Request
 
-The KiCad libraries are hosted on https://github.com/kicad[GitHub] - users can submit their contributions using the *Pull Request* mechanism. Instructions for submitting a pull request are provided below.
+The KiCad libraries are hosted on https://gitlab.com/kicad/libraries[GitLab] - users can submit their contributions using the *Merge Request* mechanism. Instructions for submitting a pull request are provided below.
 
-. If you do not have one, create an account on https://github.com/join[GitHub]
-. link:https://help.github.com/articles/fork-a-repo[**Fork**] the repository you wish to contribute to
-. link:https://help.github.com/articles/fetching-a-remote[**Clone**] your newly created fork to your local machine
-. Create a new link:https://help.github.com/articles/github-glossary/#branch[**branch**] in your local repository. This allows you to work on multiple contributions at the same time.
+. If you do not have one, create an account on https://gitlab.com/[GitLab]
+. link:https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html[**Fork**] the repository you wish to contribute to
+. link:https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository[**Clone**] your newly created fork to your local machine
+. Create a new link:https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#create-a-branch[**branch**] in your local repository. This allows you to work on multiple contributions at the same time.
 .. Make sure the branch starts from the current HEAD of the master.
 .. Don't add unrelated changes into the same branch
 . Perform any necessary modifications to the library repository. Refer to the link:/libraries/klc[KLC] for contribution guidelines.
-. link:https://help.github.com/articles/github-glossary/#commit[**Commit**] your changes to the local repository, with a message describing the changes you have made. Complex changes may require multiple commits.
-. link:https://help.github.com/articles/github-glossary/#push[**Push**] your local changes to the GitHub remote.
-. Create a link:https://help.github.com/articles/using-pull-requests[**pull request**] (PR) to merge your branch into the KiCad libraries. Include links to reference documents (e.g. datasheets) in the comments, in addition to a description of the changes you have made. Follow the instructions given in the PR template.
+. link:https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes[**Commit**] your changes to the local repository, with a message describing the changes you have made. Complex changes may require multiple commits.
+. link:https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#send-changes-to-gitlabcom[**Push**] your local changes to the GitLab remote.
+. Create a link:https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html[**merge request**] (MR) to merge your branch into the KiCad libraries. Include links to reference documents (e.g. datasheets) in the comments, in addition to a description of the changes you have made. Follow the instructions given in the MR template.
 . A librarian will review the changes - discussion and further work may be required.
-. Should further changes be required then push to the same branch as connected to the pull request.
+. Should further changes be required then push to the same branch as connected to the merge request.
 .. Small, individual commits are prefered since they are easy to review.
 .. Please do not alter the history of that branch once a review has started (no force-push).
 .. However, if there is a conflict preventing your changes from being merged into master a rebase or merge is accepted.
@@ -57,7 +57,7 @@ It is very helpful to the library team if you can include a description of your 
 When creating/editing/fixing a symbol or footprint a set of conventions should be followed. They are the link:/libraries/klc/[KiCad Library Convention],
 or KLC for short. It is important the users are familiar with the KLC before making a contribution.
 
-The KiCad librarian team have also developed a set of link:https://github.com/kicad/kicad-library-utils[helper scripts] written in Python which users can use to check their contributions against KLC guidelines before submitting.
+The KiCad librarian team have also developed a set of link:https://gitlab.com/kicad/libraries/kicad-library-utils[helper scripts] written in Python which users can use to check their contributions against KLC guidelines before submitting.
 
 == Scripting Tools
 
@@ -65,7 +65,7 @@ EDA library elements can be highly repetitive, and can benefit greatly from scri
 
 === Footprint Creation Scripts
 
-link:https://github.com/pointhi/kicad-footprint-generator[kicad-footprint-generator] is a very comprehensive footprint generation tool written in Python. The script toolset contains comprehensive examples and a large array of scripts used to generate many footprints that can be found in the KiCad libraries.
+link:https://gitlab.com/kicad/libraries/kicad-footprint-generator[kicad-footprint-generator] is a very comprehensive footprint generation tool written in Python. The script toolset contains comprehensive examples and a large array of scripts used to generate many footprints that can be found in the KiCad libraries.
 Scripted footprints are easier to review for the librarian team since only the parameters need a review. Please always check if there is a generator suitable for your contribution.
 
 === Parameteric 3D Model Generation
@@ -81,7 +81,7 @@ Currently KiCad librarians team counts with just a few people against a lot of p
 
 == Contacting librarians
 
-The best option is to create an issue on the github repo that best fits your question. If you want to have a private conversation then send an e-mail to one of the existing librarians.
+The best option is to create an issue on the GitLab repository that best fits your question. If you want to have a private conversation then send an e-mail to one of the existing librarians.
 
 You can also use the link:https://launchpad.net/~kicad-lib-committers[KiCad library mailing list] but be aware that it is not closely followed.
 

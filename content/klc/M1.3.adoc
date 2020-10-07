@@ -2,7 +2,7 @@
 brief = "Source files for 3D models must be supplied"
 +++
 
-The KiCad library maintains a repository for 3D source files at link:https://github.com/kicad/kicad-packages3d-source[https://github.com/kicad/kicad-packages3d-source].
+The KiCad library maintains a repository for 3D source files at link:https://gitlab.com/kicad/libraries/kicad-packages3D-source[https://gitlab.com/kicad/libraries/kicad-packages3D-source].
 
 The _source files_ used to generate 3D model data must be submitted to this repository when a user contributes 3D model data.
 

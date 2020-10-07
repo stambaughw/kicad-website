@@ -32,7 +32,7 @@ Refer to the link:/libraries/contribute/[contribution guidelines] for introducto
 
 == KLC Helper Scripts
 
-The KiCad library team has developed a set of link:https://github.com/kicad/kicad-library-utils[Python scripts] which can be used to help test if library components conform to the KLC requirements.
+The KiCad library team has developed a set of link:https://gitlab.com/kicad/libraries/kicad-library-utils[Python scripts] which can be used to help test if library components conform to the KLC requirements.
 
 When a pull request is made to the libraries, the contributed files are automatically checked using these scripts. It can be helpful to run these scripts on your local machine before submitting a PR, as it will help speed up the process of merging your contribution(s) into the library.
 

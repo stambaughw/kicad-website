@@ -58,7 +58,7 @@ dnf install kicad
 
 The kicad package includes the latest revision of all libraries except for the
 3D models from the
-link:https://github.com/KiCad/kicad-packages3D[kicad-packages3D] repository.
+link:https://gitlab.com/kicad/libraries/kicad-packages3D[kicad-packages3D] repository.
 Because of their size of more than 4 GB on disk they have been moved to a
 separate package and can be installed with:
 

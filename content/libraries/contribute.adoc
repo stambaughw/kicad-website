@@ -83,6 +83,4 @@ Currently KiCad librarians team counts with just a few people against a lot of m
 
 The best option is to create an issue on the GitLab repository that best fits your question. If you want to have a private conversation then send an e-mail to one of the existing librarians.
 
-You can also use the link:https://launchpad.net/~kicad-lib-committers[KiCad library mailing list] but be aware that it is not closely followed.
-
 Many of the librarians can also be contacted on the link:https://forum.kicad.info/[KiCad user forums].

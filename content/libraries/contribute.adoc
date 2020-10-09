@@ -70,7 +70,7 @@ Scripted footprints are easier to review for the librarian team since only the p
 
 === Parameteric 3D Model Generation
 
-link:https://github.com/easyw/kicad-3d-models-in-freecad[kicad-3d-models-in-freecad] is a scripting toolset which allows 3D models to be generated parametrically using Python. It uses the CadQuery module from within FreeCAD (both of which are required to use the scripts).
+link:https://gitlab.com/kicad/libraries/kicad-packages3D-generator[kicad-packages3D-generator] is a scripting toolset which allows 3D models to be generated parametrically using Python. It uses the CadQuery module from within FreeCAD (both of which are required to use the scripts).  It is currently being ported to use strictly Python, CadQuery and pythonocc.
 
 == Become a librarian
 

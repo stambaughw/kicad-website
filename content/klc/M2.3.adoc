@@ -6,6 +6,6 @@ The goal of the KiCad 3d model library is to provide a free open library of 3d m
 
 Freecad is chosen as the preferred tool to be used. Especially in combination with the kicad-stepup extension.
 
-Good alternatives are open scripting options like OpenSCAD or CadQuery. For the latter consider contributing to link:https://github.com/easyw/kicad-3d-models-in-freecad[https://github.com/easyw/kicad-3d-models-in-freecad]
+Good alternatives are open scripting options like OpenSCAD or CadQuery. For the latter consider contributing to link:https://gitlab.com/kicad/libraries/kicad-packages3D-generator[https://gitlab.com/kicad/libraries/kicad-packages3D-generator]
 
 Files created in closed source tools are permitted. If a certain model is available designed in both an open and closed tool then the one from the open tool is preferred and will replace the other one.

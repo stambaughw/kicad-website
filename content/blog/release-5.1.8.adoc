@@ -1,0 +1,38 @@
++++
+title = "KiCad 5.1.8 Release"
+date = "2020-10-26"
+draft = true
+"blog/categories" = [
+    "Release Notes"
+]
++++
+
+:icons:
+:iconsdir: /img/icons/
+
+The KiCad project is proud to announce the latest series 5 stable
+release.  The 5.1.8 stable version contains critical bug fixes and
+other minor improvements since the previous release.  It also includes
+improved footprint, symbol, and 3D model libraries, translations, and
+documentation.
+
+<!--more-->
+
+A list of all of the fixed bugs since the 5.1.7 release can be found
+on the https://gitlab.com/groups/kicad/-/milestones/2[KiCad 5.1.8
+milestone page].  This release contains several critical bug fixes so
+please consider upgrading as soon as possible.
+
+Version 5.1.8 is made from the
+https://gitlab.com/kicad/code/kicad/-/commits/5.1/[5.1] branch with
+some cherry picked changes from the development branch.
+
+Packages for Windows, MacOS, and Linux are available or will be
+in the very near future.  See the
+link:/download[KiCad download page] for guidance.
+
+NOTE: KiCad no longer supports macOS older than Mojave 10.14 as of the 5.1.8
+release.
+
+Thank you to all developers, packagers, librarians, document writers,
+translators, and everyone else who helped make this release possible.

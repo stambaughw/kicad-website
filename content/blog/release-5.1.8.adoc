@@ -19,7 +19,7 @@ documentation.
 <!--more-->
 
 A list of all of the fixed bugs since the 5.1.7 release can be found
-on the https://gitlab.com/groups/kicad/-/milestones/2[KiCad 5.1.8
+on the https://gitlab.com/groups/kicad/-/milestones/3[KiCad 5.1.8
 milestone page].  This release contains several critical bug fixes so
 please consider upgrading as soon as possible.
 

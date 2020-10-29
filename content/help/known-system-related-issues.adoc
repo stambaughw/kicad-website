@@ -85,5 +85,5 @@ Editing projects located on Windows networks shares provided by samba servers (n
 due to samba generating bad file change events and our cross-platform toolkit asserting the invalid event rather than ignoring it.
 Windows Server hosted shares should not encounter this issue.
 
-You will have to work on a local drive if encounter crashes working from a network drive for now.
+You will have to work on a local drive if you encounter crashes working from a network drive for now.
 More details can be found in link:https://gitlab.com/kicad/code/kicad/-/issues/5740[GitLab Bug #5740].

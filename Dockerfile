@@ -4,7 +4,7 @@ WORKDIR /site
 
 #build env
 ENV ASCIIDOCTOR_VERSION=2.0.10
-ENV HUGO_VERSION=0.69.0
+ENV HUGO_VERSION=0.77.0
 ENV HUGO_DOWNLOAD_URL=https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 
 RUN apk add --update --no-cache --virtual build-dependencies

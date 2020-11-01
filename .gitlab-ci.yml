@@ -25,8 +25,8 @@ test_build:
   before_script:
   - gem install asciidoctor -v 2.0.10
   - gem install html-proofer -v 3.13.0
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.69.0/hugo_0.69.0_Linux-64bit.tar.gz
-  - tar -xzvf hugo_0.69.0_Linux-64bit.tar.gz
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.77.0/hugo_0.77.0_Linux-64bit.tar.gz
+  - tar -xzvf hugo_0.77.0_Linux-64bit.tar.gz
   script:
   - ./hugo
   - htmlproofer ./public --external_only --only_4xx --url-ignore "/www.digikey.com/"

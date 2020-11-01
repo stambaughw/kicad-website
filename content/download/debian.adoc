@@ -197,7 +197,7 @@ versions!
 
 === Build KiCad from Source
 You can find the instructions to build from source
-link:http://docs.kicad-pcb.org/doxygen/md_Documentation_development_compiling.html#build_linux[here].
+link:http://docs.kicad.org/doxygen/md_Documentation_development_compiling.html#build_linux[here].
 If you use Debian stable with actual packages from Backports or you working
 with the testing/sid release you can compile your own version of KiCad. Since
 summer 2018 the required ngspice library libngspice for schematic simulation is

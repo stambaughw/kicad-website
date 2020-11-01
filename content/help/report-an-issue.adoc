@@ -50,15 +50,15 @@ link:https://gitlab.com/kicad/services/kicad-doc/-/issues[I have a documentation
 
 
 === Website
-The website is maintained by another group of maintainers. The main website at kicad-pcb.org is separate from the documentation website
-docs.kicad-pcb.org. Please report any issues in the correct location.
+The website is maintained by another group of maintainers. The main website at kicad.org is separate from the documentation website
+docs.kicad.org. Please report any issues in the correct location.
 
 
 
-link:https://gitlab.com/kicad/services/kicad-website/issues[I have a kicad-pcb.org issue^,role="btn btn-default btn-primary"] 
+link:https://gitlab.com/kicad/services/kicad-website/issues[I have a kicad.org issue^,role="btn btn-default btn-primary"] 
 
 
-link:https://gitlab.com/kicad/services/kicad-doc-website/-/issues[I have a docs.kicad-pcb.org issue^,role="btn btn-default btn-primary"] 
+link:https://gitlab.com/kicad/services/kicad-doc-website/-/issues[I have a docs.kicad.org issue^,role="btn btn-default btn-primary"] 
 
 
 

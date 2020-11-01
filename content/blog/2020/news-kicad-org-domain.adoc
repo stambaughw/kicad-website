@@ -1,0 +1,18 @@
++++
+title = "kicad.org, the permanent internet home of KiCad"
+date = "2020-10-29"
+draft = false
+"blog/categories" = [
+    "News"
+]
++++
+
+:icons:
+:iconsdir: /img/icons/
+
+Thanks to a generous donation by https://www.digikey.com[DigiKey], the KiCad project
+is now found at the https://kicad.org[kicad.org] domain.  All previous links to 
+kicad-pcb.org will continue to function for the foreseeable future.
+
+The kicad.org domain provides a stable, clear home for the KiCad project.  We are
+extremely grateful to Digikey for their support of KiCad.

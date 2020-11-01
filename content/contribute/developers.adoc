@@ -37,7 +37,7 @@ All repos can be found https://gitlab.com/kicad/[here].
 The repository for the main application can be found https://gitlab.com/kicad/code/kicad/[here]
 
 === Compiling the code
-Follow the instruction in the link:http://docs.kicad-pcb.org/doxygen/md_Documentation_development_compiling.html[documentation]
+Follow the instruction in the link:http://docs.kicad.org/doxygen/md_Documentation_development_compiling.html[documentation]
 corresponding to your platform to set up a working build environment
 and successfully build KiCad from source.
 
@@ -50,20 +50,20 @@ remember to update the documentation descriptions. You can run
 
 The latest version of the same docs are also available on the Jenkins
 server, see
-link:http://docs.kicad-pcb.org/doxygen/namespaces.html[KiCad Developer Docs for the C++ API].
+link:http://docs.kicad.org/doxygen/namespaces.html[KiCad Developer Docs for the C++ API].
 
 You can also find various developer notes in the Doxygen docs, see
-link:http://docs.kicad-pcb.org/doxygen/pages.html[the
+link:http://docs.kicad.org/doxygen/pages.html[the
 related pages].
 
 === Before you submit
-After you make changes, please ensure your code meets the link:http://docs.kicad-pcb.org/doxygen/md_Documentation_development_coding-style-policy.html[KiCad Coding Style Policy].
+After you make changes, please ensure your code meets the link:http://docs.kicad.org/doxygen/md_Documentation_development_coding-style-policy.html[KiCad Coding Style Policy].
 
 it's important for us to keep the codebase readable by
 all developers. Your patches will not be accepted until adhere to the rules set forth in the policy.
 
 If you feel like working on the user interface, you may find useful reading the
-link:http://docs.kicad-pcb.org/doxygen/md_Documentation_development_ui-policy.html[User Interface Guidelines].
+link:http://docs.kicad.org/doxygen/md_Documentation_development_ui-policy.html[User Interface Guidelines].
 
 Programming is an iterative process, don't worry if you have to go back and make changes to your patches, we all do.
 

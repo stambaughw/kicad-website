@@ -54,6 +54,6 @@ Instructions can be found in compiling.md which is located in the
 kicad source code under `/Documentation/development` folder.
 
 Alternatively, you can view it online here:
-link:http://docs.kicad-pcb.org/doxygen/md_Documentation_development_compiling.html[Building
+link:http://docs.kicad.org/doxygen/md_Documentation_development_compiling.html[Building
 KiCad from Source]
 

@@ -84,7 +84,7 @@ ignoreFiles = [ "(^_|/_)(.+).adoc$" ]
 [[menu.main]]
     parent = "Help"
     name   = "Documentation"
-    url    = "http://docs.kicad-pcb.org"
+    url    = "http://docs.kicad.org"
     weight = 10
 
 [[menu.main]]

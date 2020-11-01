@@ -53,7 +53,7 @@ A short summary of updates between KiCad 4.0.0 and the 'old stable' follows belo
 - Some excessive dialogs have been removed
 - New icons for many tools
 - New schematic library browser
-- Docs now available in several different formats online (http://docs.kicad-pcb.org )
+- Docs now available in several different formats online (http://docs.kicad.org )
 - More intelligent component search in EESchema
 - Component rescue helper to identify when components have changed in EESchema and rescue the old version
 - Undo limit default increased and now configurable

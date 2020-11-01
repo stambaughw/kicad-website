@@ -10,9 +10,6 @@ aliases = [
 ]
 +++
 
-:icons: 
-:iconsdir: /img/icons/
-
 For those of you who did not have the good fortune of being able to attend
 https://kicad-kicon.com/[KiCon], you missed a great conference.  If this
 years conference was any indication, you will not want to miss the next one.

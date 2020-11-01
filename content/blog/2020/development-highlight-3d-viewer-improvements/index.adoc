@@ -7,9 +7,6 @@ draft = false
 ]
 +++
 
-:icons:
-:iconsdir: /img/icons/
-
 The 3D Viewer has seen a few incremental improvements during the course of V6 development. 
 Not all changes to KiCad have to large by themselves to improve KiCad.
 <!--more-->

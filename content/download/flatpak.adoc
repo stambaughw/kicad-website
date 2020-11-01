@@ -5,8 +5,6 @@ summary = "Install instructions for KiCad on Linux using Flatpak"
 iconhtml = "<div class='fl-flathub'></div>"
 weight = 30
 +++
-:icons: 
-:iconsdir: /img/icons/
 :dist: Flatpak
 
 include::./content/download/_supported-note.adoc[]

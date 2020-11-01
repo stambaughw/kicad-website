@@ -10,9 +10,6 @@ aliases = [
 ]
 +++
 
-:icons: 
-:iconsdir: /img/icons/
-
 The KiCad project is proud to announce the release of version 5.1.0.
 This is the first ever minor version release of KiCad and was developed
 primarily to resolve compatibility issues with Linux GTK3 and long

@@ -7,9 +7,6 @@ draft = false
 ]
 +++
 
-:icons:
-:iconsdir: /img/icons/
-
 As a preview of a feature coming in the next major release, the ability to import Altium PcbDoc files is now
 available in the latest nightly builds. This was thanks to the work of https://gitlab.com/pointhi[Thomas Pointhuber
 ] in https://gitlab.com/kicad/code/kicad/-/merge_requests/60[MR#60]

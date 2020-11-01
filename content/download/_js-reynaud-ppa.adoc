@@ -1,5 +1,4 @@
-:icons:
-:iconsdir: /img/icons/
+
 
 == 5.1.7 Stable Release
 

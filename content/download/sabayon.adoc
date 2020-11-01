@@ -5,8 +5,6 @@ summary = "Install instructions for KiCad on Sabayon"
 iconhtml = "<div class='fl-sabayon'></div>"
 weight = 95
 +++
-:icons: 
-:iconsdir: /img/icons/
 :dist: Sabayon
 
 include::./content/download/_supported-note.adoc[]

@@ -7,9 +7,6 @@ draft = true
 ]
 +++
 
-:icons:
-:iconsdir: /img/icons/
-
 The KiCad project is proud to announce the latest series 5 stable
 release.  The 5.1.8 stable version contains critical bug fixes and
 other minor improvements since the previous release.  It also includes

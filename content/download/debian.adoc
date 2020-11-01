@@ -5,8 +5,6 @@ summary = "Install instructions for KiCad on Debian"
 iconhtml = "<div class='fl-debian'></div>"
 weight = 10
 +++
-:icons: 
-:iconsdir: /img/icons/
 
 == Basic Information
 

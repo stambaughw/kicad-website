@@ -5,8 +5,6 @@ summary = "Downloads for KiCad on Windows 8.1 and 10"
 iconhtml = "<div><i class='fab fa-windows'></i></div>"
 weight = 2
 +++
-:icons:
-:iconsdir: /img/icons/
 
 KiCad supports  Windows 8.1 and 10.  See
 link:/help/system-requirements/[System Requirements] for more details.

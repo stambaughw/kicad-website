@@ -9,9 +9,6 @@ aliases = [
 ]
 +++
 
-:icons: 
-:iconsdir: /img/icons/
-
 The KiCad project is excited to announce the project leader, Wayne Stambaugh,
 has joined the https://www.kipro-pcb.com/[KiCad Services Corporation].  A
 https://youtu.be/X4wMtCqVUQE[video interview] with KiCad Services Corporation

@@ -5,7 +5,5 @@ summary = "Install instructions for KiCad on Ubuntu"
 iconhtml = "<div class='fl-ubuntu'></div>"
 weight = 1
 +++
-:icons: 
-:iconsdir: /img/icons/
 
 include::./content/download/_js-reynaud-ppa.adoc[]

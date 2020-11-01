@@ -5,8 +5,6 @@ summary = "Install instructions for KiCad on Gentoo"
 iconhtml = "<div class='fl-gentoo'></div>"
 weight = 95
 +++
-:icons: 
-:iconsdir: /img/icons/
 :dist: Gentoo
 
 include::./content/download/_supported-note.adoc[]

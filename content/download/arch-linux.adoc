@@ -5,8 +5,6 @@ summary = "Install instructions for KiCad on Arch Linux"
 iconhtml = "<div class='fl-archlinux'></div>"
 weight = 20
 +++
-:icons: 
-:iconsdir: /img/icons/
 
 == Stable Release
 {{< repology arch >}}

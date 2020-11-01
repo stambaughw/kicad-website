@@ -7,9 +7,6 @@ draft = false
 ]
 +++
 
-:icons:
-:iconsdir: /img/icons/
-
 Some great workflow improving changes were made to PCBNew in this Development Highlight for the future KiCad V6 😄
 
 == Layer Management

@@ -7,9 +7,6 @@ draft = false
 ]
 +++
 
-:icons:
-:iconsdir: /img/icons/
-
 https://gitlab.com/Qbort[Roberto Fernandez Bautista] had a growing desire at his workplace to migrate away from CADSTAR. 
 After trying and finding migration paths to other EDA tools inadequate and poorly supported, he has leveraged the open source nature of KiCad to create just what he needs and contribute to the greater community :D
 

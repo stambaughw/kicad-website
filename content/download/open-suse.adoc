@@ -5,8 +5,6 @@ summary = "Install instructions for KiCad on openSuse"
 iconhtml = "<div class='fl-opensuse'></div>"
 weight = 20
 +++
-:icons: 
-:iconsdir: /img/icons/
 :dist: openSUSE
 
 include::./content/download/_supported-note.adoc[]

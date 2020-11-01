@@ -8,8 +8,6 @@ aliases = [
     "/download/osx/"
 ]
 +++
-:icons:
-:iconsdir: /img/icons/
 
 KiCad is supported on 10.14 and newer.  See
 link:/help/system-requirements/[System Requirements] for more details.

@@ -7,9 +7,6 @@ draft = false
 ]
 +++
 
-:icons:
-:iconsdir: /img/icons/
-
 The KiCad project is proud of our role as the electronic design application
 used by the https://openventilator.gitlab.io/[Open Ventilator] project.
 The Open Ventilator project is based on a release of the Medtronic PB560

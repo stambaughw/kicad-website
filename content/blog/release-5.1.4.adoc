@@ -11,9 +11,6 @@ aliases = [
 ]
 +++
 
-:icons: 
-:iconsdir: /img/icons/
-
 The KiCad project is proud to announce the latest series 5 stable
 release of KiCad.  The 5.1.4 stable version contains critical bug
 fixes and other minor improvements since the 5.1.2 and 5.1.3 releases.

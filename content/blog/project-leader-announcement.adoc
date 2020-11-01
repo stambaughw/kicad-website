@@ -9,9 +9,6 @@ aliases = [
 ]
 +++
 
-:icons: 
-:iconsdir: /img/icons/
-
 For those of you who did not have the good fortune to attend
 https://kicad-kicon.com/[KiCon] (more on that in a later post), there was
 a major project announcement made by the project leader during the

@@ -44,14 +44,6 @@ Please read the link:CONTRIBUTING.adoc[CONTRIBUTING Guidelines]
 A dockerfile is included that builds and packages the website with an nginx instance
 
 == Hints
-=== Admonition icons
-For icons to appear in admonition blocks, you must add 
-```
-:icons: 
-:iconsdir: /img/icons/
-```
-at the top of the asciidoc file but below the hugo template header.
-
 === adoc partials
 Please name any reusable asciidoc files with a leading underscore in the filename and ending in .adoc.
 Hugo is configured to ignore such files on purpose.

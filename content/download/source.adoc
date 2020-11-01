@@ -5,9 +5,6 @@ summary = "Install instructions for KiCad from source code"
 iconhtml = "<div><i class='fa fa-code'></i></div>"
 weight = 100
 +++
-:icons:
-:iconsdir: /img/icons/
-
 
 The most recent source code for KiCad can be downloaded from the
 https://gitlab.com/kicad/code/kicad[gitlab repository] or the

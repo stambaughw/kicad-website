@@ -14,7 +14,7 @@ link:/help/system-requirements/[System Requirements] for more details.
 
 == Stable Release
 
-Current Version: *5.1.7*
+Current Version: *5.1.8*
 
 ++++
 
@@ -30,13 +30,13 @@ Current Version: *5.1.7*
 		<div id="mirrors-macos14" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="mirrors-macos14-heading">
 			<div class="panel-body">
 				<div class="list-group download-list-group">
-					<a class="list-group-item" href="https://kicad-downloads.s3.cern.ch/osx/stable/kicad-unified-5.1.7-0-10_14.dmg">
+					<a class="list-group-item" href="https://kicad-downloads.s3.cern.ch/osx/stable/kicad-unified-5.1.8-0-10_14.dmg">
 						<img src="/img/about/cern-logo.png" /> CERN - Switzerland
 					</a>
-					<a class="list-group-item" href="http://www2.futureware.at/~nickoe/kicad-downloads-mirror/osx/stable/kicad-unified-5.1.7-0-10_14.dmg">
+					<a class="list-group-item" href="http://www2.futureware.at/~nickoe/kicad-downloads-mirror/osx/stable/kicad-unified-5.1.8-0-10_14.dmg">
 						Futureware - Austria
 					</a>
-					<a class="list-group-item" href="https://osdn.net/dl/kicad/kicad-unified-5.1.7-0-10_14.dmg">
+					<a class="list-group-item" href="https://osdn.net/dl/kicad/kicad-unified-5.1.8-0-10_14.dmg">
 						<img src="/img/download/osdn.png" /> OSDN - Asia + North America
 					</a>
 				</div>

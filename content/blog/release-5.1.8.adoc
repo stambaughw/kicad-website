@@ -28,8 +28,8 @@ Packages for Windows, MacOS, and Linux are available or will be
 in the very near future.  See the
 link:/download[KiCad download page] for guidance.
 
-NOTE: KiCad no longer supports macOS older than Mojave 10.14 as of the 5.1.8
-relfalse.
+NOTE: KiCad no longer supports macOS older than Mojave 10.14 as of the
+5.1.7 release.
 
 Thank you to all developers, packagers, librarians, document writers,
 translators, and everyone else who helped make this release possible.

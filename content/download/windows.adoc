@@ -31,7 +31,7 @@ Current Version: *5.1.8*
 					<a class="list-group-item" href="http://www2.futureware.at/~nickoe/kicad-downloads-mirror/windows/stable/kicad-5.1.8_1-x86_64.exe">
 						Futureware - Austria
 					</a>
-					<a class="list-group-item" href="https://osdn.net/dl/kicad/kicad-5.1.8_1-x86_64.exe">
+					<a class="list-group-item" href="https://osdn.net/projects/kicad/storage/kicad-5.1.8_1-x86_64.exe">
 						<img src="/img/download/osdn.png" /> OSDN - Asia + North America
 					</a>
 				</div>
@@ -56,7 +56,7 @@ Current Version: *5.1.8*
 					<a class="list-group-item" href="http://www2.futureware.at/~nickoe/kicad-downloads-mirror/windows/stable/kicad-5.1.8_1-i686.exe">
 						Futureware - Austria
 					</a>
-					<a class="list-group-item" href="https://osdn.net/dl/kicad/kicad-5.1.8_1-i686.exe">
+					<a class="list-group-item" href="https://osdn.net/projects/kicad/storage/kicad-5.1.8_1-i686.exe">
 						<img src="/img/download/osdn.png" /> OSDN - Asia + North America
 					</a>
 				</div>

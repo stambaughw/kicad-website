@@ -1,7 +1,7 @@
 +++
 title = "KiCad 5.1.8 Release"
-date = "2020-10-26"
-draft = true
+date = "2020-11-05"
+draft = false
 "blog/categories" = [
     "Release Notes"
 ]
@@ -29,7 +29,7 @@ in the very near future.  See the
 link:/download[KiCad download page] for guidance.
 
 NOTE: KiCad no longer supports macOS older than Mojave 10.14 as of the 5.1.8
-release.
+relfalse.
 
 Thank you to all developers, packagers, librarians, document writers,
 translators, and everyone else who helped make this release possible.

@@ -13,6 +13,7 @@ summary = "The KiCad Library Convention (KLC) is a set of requirements for contr
 :toclevels: 3
 toc::[]
 
+**KLC is suspended until further notice. Rules are currently being revised for KiCad version 6. No version 5 library additions will be accepted.**
 
 **link:/libraries/klc/history/[Revision: 3.0.28]**
 

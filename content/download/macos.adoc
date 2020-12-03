@@ -85,6 +85,12 @@ Current Version: *5.1.8*
 </div>
 ++++
 
+== Previous Releases
+
+Previous releases should be available for download on:
+
+https://kicad-downloads.s3.cern.ch/index.html?prefix=osx/stable/
+
 
 == Nightly Development Builds
 

@@ -32,3 +32,12 @@ if( $('.navbar').hasClass('transparent') )
 	$(window).trigger('resize');
 
 })();
+
+/*
+ * Ribbon Banner for fund drive
+ */
+$(document).ready(function() {
+  setTimeout(function() {
+    $('.ribbon').addClass('active');
+  }, 500);
+});

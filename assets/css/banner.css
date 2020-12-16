@@ -10,6 +10,7 @@ body {
   position: absolute;
   top: 250px;
   left: 287px;
+  width: 500px;
   margin: 0;
   right: 0;
     -webkit-transform: translate(-50%, -50%);

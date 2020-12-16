@@ -1,0 +1,21 @@
++++
+title = "KiCad's 2020 End of Year Fund Drive"
+date = "2020-12-16"
+draft = false
+"blog/categories" = [
+    "News"
+]
++++
+
+As 2020 draws to a close, the KiCad Project would like to express our deep gratitude to our community for your support and engagement over the past year.
+Now, more than ever, the benefits of a truly open and free EDA design platform are needed to share ideas, designs and support, inside your team and around
+the world.
+
+== Community Development
+
+Many opportunities to connect in person have had to be postponed, canceled or changed.  We were able to meet in February for FOSDEM but we missed conferences
+at https://2020.fossasia.org/[FOSSASIA], the https://2021.oshwa.org/[Open Hardware Summit] and https://kicad-kicon.com/[KiCon 2020].  Next year, we are looking forward to online conferences at https://fosdem.org/2021/[FOSDEM 2021], https://summit.fossasia.org/tickets/[FOSSASIA 2021] and the https://2021.oshwa.org/[2021 Open Hardware Summit].  While we don't know what the world's situation will look like by fall, we are hoping to relaunch in-person KiCon in Sept 2021.
+
+== Funding Drive 
+
+Thanks to a generous donation from https://www.kipro-pcb.com/[KiCad Services Corporation], we are currently running a matching donation campaign through January 15th.  All donations to https://crowdfunding.lfx.linuxfoundation.org/projects/kicad[KiCad through the Linux Foundation] will be matched dollar for dollar by KiCad Services up to $10,000.  Your donations help the KiCad project to fund development, documentation, UI/UX work, community building and more!  Please consider donating today and make your contribution to KiCad go further than ever. 

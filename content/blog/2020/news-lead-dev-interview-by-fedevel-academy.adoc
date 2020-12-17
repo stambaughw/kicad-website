@@ -1,0 +1,23 @@
++++
+title = "Project Lead Developer Interview on Fedevel Academy"
+date = "2020-12-17"
+draft = false
+"blog/categories" = [
+    "News"
+]
++++
+
+:icons:
+:iconsdir: /img/icons/
+
+
+The KiCad project lead developer was recently
+https://www.youtube.com/watch?v=6qcsJfoqbL4&feature=youtu.be[interviewed] by
+https://www.youtube.com/user/matarofe[Robert Feranec] of
+https://academy.fedevel.com/[Fedevel Academy] about the viability of using
+KiCad in corporate environments.  The discussion includes addressing the
+concerns of corporate users, feature comparison to proprietary products, the
+feature set of of the upcoming version 6 release, and the future of KiCad
+development.  If you are considering or are already using KiCad in corporate
+environment or you are just interested in KiCad development in general, click
+on the link above to hear all about KiCad development.
